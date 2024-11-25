@@ -1,25 +1,6 @@
-# Project Name
+For this Application, I used https://dummyjson.com/custom-response this website for custom API response of Booking and Wallet
+And for login I used https://dummyjson.com/auth/login for login API
 
-Brief description of your project.
+And the all the screens are made with flutter and bloc pattern
 
-## Features
-- Feature 1
-- Feature 2
-
-## Getting Started
-Instructions on setting up the project.
-
-## Prerequisites
-List of prerequisites needed.
-
-## Installation
-Step by step installation guide.
-
-## Usage
-How to use the project.
-
-## Contributing
-Guidelines for contributing.
-
-## License
-Project license information.
+There were 4 screens in the Test you shared and I have all the screens.
